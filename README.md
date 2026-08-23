@@ -1,54 +1,82 @@
 \# Equipo 06 - Nombre del curso
 
-
-
-\*\*Carrera:\*\* Ingeniería Ambiental / Informática / Industrial
+\### Carrera de Ingeniería Ambiental / Informática / Industrial  
 
 \*\*Universidad Peruana Cayetano Heredia\*\*
 
 
 
-\## Descripción del equipo
-
-Somos el Equipo 06 del curso Procesos de innovación en ingenieria.
-
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones con impacto social, tecnológico y ambiental.
+\---
 
 
 
-\## Objetivos de Desarrollo Sostenible (ODS)
+\## 🌍 Descripción del Equipo 
 
-\- ODS 3: Salud y Bienestar
+Somos el \*\*Equipo 06\*\* del curso \*\*Nombre del curso 202X-1\*\*, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 
-\- ODS 6: Agua Limpia y Saneamiento
-
-\- ODS 9: Industria, Innovación e Infraestructura
-
-\- ODS 11: Ciudades y Comunidades Sostenibles
-
-\- ODS 13: Acción por el Clima
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 
 
-\## Integrantes del equipo
+Nos interesa trabajar en los siguientes \*\*Objetivos de Desarrollo Sostenible (ODS):\*\*  
 
-\- Nombre 1 - Líder del equipo
+\- ODS 3: Salud y Bienestar  
 
-\- Nombre 2 - Responsable de investigación
+\- ODS 6: Agua Limpia y Saneamiento  
 
-\- Nombre 3 - Diseñador/a
+\- ODS 9: Industria, Innovación e Infraestructura  
 
-\- Nombre 4 - Encargado/a de documentación
+\- ODS 11: Ciudades y Comunidades Sostenibles  
 
-\- Nombre 5 - Programador/a
+\- ODS 13: Acción por el Clima  
 
 
 
-\## Estructura del repositorio
+\---
 
-\- Nombre\_del\_Curso/
 
-\- Proyecto/
 
-\- Recursos/Imágenes/
+\## 📸 Fotografía del Equipo  
+
+<p align="center">
+
+&#x20; <img width="800" alt="Fotografía del equipo" src="Recursos/Imágenes/foto\_equipo.jpg" />
+
+&#x20; <em>Figura 1. Fotografía del equipo 06</em>
+
+</p>
+
+
+
+\---
+
+
+
+\## 👥 Integrantes del Equipo  
+
+
+
+| Foto | Nombre | Rol | Intereses |
+
+|------|--------|-----|-----------|
+
+| <img src="Recursos/Imágenes/integrante1.png" width="90"/> | \*\*Nombre 1\*\* | Líder del equipo | Innovación social, sostenibilidad |
+
+| <img src="Recursos/Imágenes/integrante2.png" width="90"/> | \*\*Nombre 2\*\* | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+
+| <img src="Recursos/Imágenes/integrante3.png" width="90"/> | \*\*Nombre 3\*\* | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+
+| <img src="Recursos/Imágenes/integrante4.png" width="90"/> | \*\*Nombre 4\*\* | Encargado/a de documentación | Comunicación científica, redacción técnica |
+
+| <img src="Recursos/Imágenes/integrante5.png" width="90"/> | \*\*Nombre 5\*\* | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+
+
+
+\---
+
+
+
+\## 📌 Resumen Final  
+
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
 
